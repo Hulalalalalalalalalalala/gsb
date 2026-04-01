@@ -1,0 +1,7 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+eth_candles.png
+.DS_Store
