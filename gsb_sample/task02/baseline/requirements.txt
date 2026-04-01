@@ -1,0 +1,4 @@
+pandas>=2.0.0,<3
+matplotlib>=3.7.0,<4
+mplfinance==0.12.10b0
+yfinance>=0.2.36,<1
